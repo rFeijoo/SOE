@@ -43,7 +43,7 @@
 	    "rm -R text.txt", para apagar o arquivo "text.txt"
 	    
 	(g) Apagar pastas definitivamente.
-	    "rm -d dir", para apagar a pasta "dir"
+	    "rmdir dir", para apagar a pasta "dir"
 	    
 	(h) Copiar arquivos.
 	    "cp fileName.md newFile.md", para criar uma cópia do arquivo "fileName.md" chamado "newFile.md"
