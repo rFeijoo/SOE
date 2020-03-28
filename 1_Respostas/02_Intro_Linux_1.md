@@ -1,5 +1,5 @@
 ```
-1. Por que o Linux recebeu esse nome?
+1. Por que o Linux recebeu esse nome? 
    O nome faz referência ao seu criador, Linus Torvalds, ao mesmo tempo em que ao free-software Unix.
 ```
 ```
