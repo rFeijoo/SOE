@@ -48,5 +48,5 @@ Para as questões a seguir, use a pasta no endereço:
 ```
 ```
 12. Liste somente os arquivos que comecem com o nome 'tux'.
-   "ls tux*"
+   "ls tux*" 
 ```
