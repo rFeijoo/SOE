@@ -12,9 +12,8 @@ Ex03: lib Ex03.c
 	gcc -c Ex03.c
 	gcc Ex03.o gpio_sysfs.o -o Ex03.out
 
-lib: gpio_sysfs.c gpio_dev_mem.c
+lib: gpio_sysfs.c
 	gcc -c gpio_sysfs.c
-	gcc -c gpio_dev_mem.c
 
 clean:
 	rm -rf *.out *.o
