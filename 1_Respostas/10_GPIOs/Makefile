@@ -1,4 +1,4 @@
-all: lib Ex01 Ex02
+all: lib Ex01 Ex02 Ex03
 
 Ex01: lib Ex01.c
 	gcc -c Ex01.c
