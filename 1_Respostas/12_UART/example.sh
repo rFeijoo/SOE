@@ -5,10 +5,6 @@
 # Para RPi 0W, 3 e 4
 UART=/dev/ttyS0
 
-echo
-echo
-echo
-
 # Configure a porta serial
 stty -F $UART ispeed 9600 ospeed 9600 cs8 -cstopb -parenb
 # Confira o resultado da configuracao
