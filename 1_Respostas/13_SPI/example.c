@@ -36,7 +36,7 @@ int main(void)
 
 	while (user_input != 0)
 	{
-    printf("Type a number between 1 and 5 to blink, or 0 to exit\n");
+    	printf("Type a number between 1 and 5 to blink, or 0 to exit\n");
 
 		scanf("%d", &user_input);
 
